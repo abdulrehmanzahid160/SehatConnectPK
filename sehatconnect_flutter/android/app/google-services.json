@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1018112119571",
+    "project_id": "sehatconnectpk",
+    "storage_bucket": "sehatconnectpk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018112119571:android:e8c83939a704738b9cc0e6",
+        "android_client_info": {
+          "package_name": "sehatconnect_pk.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018112119571-hbt9q5o7t23fae4r1d2gseniv20e8krs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sehatconnect_pk.com",
+            "certificate_hash": "ee27383537f66a3226f39b99f2f481b8dce11fd3"
+          }
+        },
+        {
+          "client_id": "1018112119571-t6tekk447e1kjrqeuug5hsrousdksats.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEp1_2xOWieMYSxsyaGkBcP9mIGuqEK1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018112119571-t6tekk447e1kjrqeuug5hsrousdksats.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

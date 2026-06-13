@@ -1,0 +1,10 @@
+===============================
+ SehatConnect Health Report
+===============================
+Name: Abdul Rehman
+
+Type:   bmi
+Result: 20.761245674740486
+Advice: Normal (Wah! Sehat acha hai)
+Date:   Mon Jun 01 09:36:29 PKT 2026
+-------------------------------

@@ -1,0 +1,25 @@
+# Maven / Java (Backend)
+sehatconnect_backend_modified/target/
+sehatconnect_backend_modified/data/
+
+# IDEs & Editors
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.class
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Flutter / Dart (Frontend)
+# (Note: sehatconnect_flutter/.gitignore already handles most of these, but declaring here is safe)
+sehatconnect_flutter/.dart_tool/
+sehatconnect_flutter/build/
+sehatconnect_flutter/.flutter-plugins
+sehatconnect_flutter/.flutter-plugins-dependencies
+sehatconnect_flutter/pubspec.lock

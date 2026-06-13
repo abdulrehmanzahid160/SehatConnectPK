@@ -1,0 +1,36 @@
+[ {
+  "id" : "cacd6cb1-2b2c-4ec6-af44-300468d9306c",
+  "calculatorType" : "waterLitres",
+  "resultValue" : 2.1500000000000004,
+  "advice" : "Aapko din mein 2.15 liters pani peena chahiye. Stay hydrated!",
+  "timestamp" : "2026-05-31T17:11:55.570+00:00",
+  "userId" : "90f9eff2-076f-4680-b3c5-5b4c677a47ce"
+}, {
+  "id" : "693cbdc7-4244-439f-b76a-52d75d564767",
+  "calculatorType" : "calories",
+  "resultValue" : 2006.5608,
+  "advice" : "Aapko rozana 2007 calories leni chahiye apne wazan ko barqarar rakhne ke liye.",
+  "timestamp" : "2026-05-31T17:28:08.638+00:00",
+  "userId" : "1b158dc3-dec4-47a6-bab7-a8298eeed9bc"
+}, {
+  "id" : "d5503250-2ee6-444c-b98f-31990ecbda00",
+  "calculatorType" : "bmi",
+  "resultValue" : 29.218407596785973,
+  "advice" : "Overweight (Wazan kam karein!)",
+  "timestamp" : "2026-05-31T17:56:29.967+00:00",
+  "userId" : "1b158dc3-dec4-47a6-bab7-a8298eeed9bc"
+}, {
+  "id" : "38f80dcd-addd-4781-bc81-ef9ef335ece4",
+  "calculatorType" : "sleepDebt",
+  "resultValue" : 4.0,
+  "advice" : "Aapki neend 4.0 ghante kam hai. Sahi aaram karein!",
+  "timestamp" : "2026-05-31T17:57:05.343+00:00",
+  "userId" : "1b158dc3-dec4-47a6-bab7-a8298eeed9bc"
+}, {
+  "id" : "bd377ff8-0a4e-4046-9b1f-23f0484f2e33",
+  "calculatorType" : "bmi",
+  "resultValue" : 20.761245674740486,
+  "advice" : "Normal (Wah! Sehat acha hai)",
+  "timestamp" : "2026-06-01T04:36:29.092+00:00",
+  "userId" : "0c547b92-6218-40b4-b313-5a14338da532"
+} ]
